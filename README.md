@@ -1,4 +1,6 @@
-# Sign Language Detection and Classification Model
+# Sign Language Detection and Classification Model 🖐️
+
+![](./sign_language.gif)
 
 ## Computer Vision Sign Language Detection and Classification Model with TensorFlow, Keras, OpenCV and Mediapipe 
 
